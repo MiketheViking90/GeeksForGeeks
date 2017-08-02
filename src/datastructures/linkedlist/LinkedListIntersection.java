@@ -1,7 +1,4 @@
-package datastructures.tree;
-
-import datastructures.linkedlist.LinkedListInsert;
-import datastructures.linkedlist.ListNode;
+package datastructures.linkedlist;
 
 import java.util.Deque;
 import java.util.LinkedList;
